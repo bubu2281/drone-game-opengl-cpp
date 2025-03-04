@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/mnt/c/Users/alexa/OneDrive/Desktop/2024-2025 CTI Anul 3/Anul 3 Semestrul 1/EGC/gfx-framework-master/src/lab_m1/tema2",
+      "program": "/mnt/c/Users/alexa/OneDrive/Desktop/2024-2025 CTI Anul 3/Anul 3 Semestrul 1/EGC/gfx-framework-master/src/lab_m1/tema2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
